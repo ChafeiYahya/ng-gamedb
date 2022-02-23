@@ -1,4 +1,4 @@
-# NgVideoGameDb
+# Ng-gamedb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
@@ -22,12 +22,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
 ## Interface 
 
 ![98ad7908d257661542facfb7d88ced96](https://user-images.githubusercontent.com/93401911/155385807-912617d4-887a-4387-886d-9e63f4ce8cb1.jpg)
 
 ![e31df0303635d9e43cada496a4a2cf57](https://user-images.githubusercontent.com/93401911/155385829-a7971a4e-29d4-4b1a-8a25-b024a4b2e2a3.png)
+
+## Info 
+
+Angular app using a public API to create a game database website
